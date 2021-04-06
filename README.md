@@ -4,12 +4,15 @@
 		
 		
 Created by Maria Pedrosa Bustos (mpedrosab@gmail.com)
+
     on 16-03-2021 for the Department of Applised Physics (UGR)
 	
 **************************************************************************
 
 There are two versions of the software:
+
 	FFT_Full: Calculate the FFT, store the data in a text file and PLOT it. (Compatible with latest Windows versions) 
+	
 	FFT_noPlot: The same but DOES NOT plot the data. (Compatible with almost all Windows versions)
 	
 If "FFT_Full" does not work, try "FFT_noPlot".
