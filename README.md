@@ -1,6 +1,6 @@
 **************************************************************************
         
-		FFT (Fast Fourier Transform) SOFTWARE USAGE
+		<h1>FFT (Fast Fourier Transform) SOFTWARE USAGE</h1>
 		
 		
 Created by Maria Pedrosa Bustos (mpedrosab@gmail.com)
@@ -15,7 +15,7 @@ There are two versions of the software:
 If "FFT_Full" does not work, try "FFT_noPlot".
 
 
-INSTRUCTIONS
+**INSTRUCTIONS**
 
 1. Unzip the file "FFT.rar"
 2. Place your data file inside the same directory as the ".exe" file you want to use. 
@@ -58,6 +58,7 @@ NOTES:
 						
 						
 **UPDATES**
+
 v1.2:
 	-Input data can have empty rows at the end.
 	-Errors are now shown on terminal instead of directly closing the window when a problem occurs
