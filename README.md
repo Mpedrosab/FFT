@@ -1,6 +1,6 @@
 **************************************************************************
         
-		<h1>FFT (Fast Fourier Transform) SOFTWARE USAGE</h1>
+		FFT (Fast Fourier Transform) SOFTWARE USAGE
 		
 		
 Created by Maria Pedrosa Bustos (mpedrosab@gmail.com)
@@ -31,29 +31,28 @@ NOTES:
 		Header labels can be none or any that contains a "T". All text before a line containing "T" are ignored.
 		Example of a valid header:
 		
-	                     _______________________________________________
-						|	Posición angular-canales 1 y 2, Ensayo #1	|	<- This line is ignored
-						|	Tiempo ( s )	Posición angular ( rad )    |
-						|	0,0000	000000                              |
-						|	0,0100	000000                              |
-						|	...      ...                                |
-						|_______________________________________________|	                                            |
+	                 _______________________________________________
+			|   Posición angular-canales 1 y 2, Ensayo #1   |	<- This line is ignored
+			|   Tiempo ( s )	Posición angular ( rad )|
+			|   0,0000	000000                          |
+			|   0,0100	000000                          |
+			|   ...      ...                                |
+			|_______________________________________________|	                                        
 							
 		Another example: 
-							
-						 _______________________________________________	
-						|	Time	Velocity                            |	
-                        |	0,0000	000000                              |
-                        |	0,0100	000000                              |
-                        |	...      ...                                |
+			 _______________________________________________	
+			|	Time	Velocity                        |	
+                        |	0,0000	000000                          |
+                        |	0,0100	000000                          |
+                        |	...      ...                            |
                         |_______________________________________________|
 
 
 		No headers:
-						 _______________________________________________
-						|	0,0000	000000                              |
-		                |	0,0100	000000                              |
-	                    |	...      ...                                |
+			 _______________________________________________
+			|	0,0000	000000                          |
+		        |	0,0100	000000                          |
+	                |	...      ...                            |
                         |_______________________________________________|
 						
 						
