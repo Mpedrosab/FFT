@@ -20,7 +20,7 @@ If "FFT_Full" does not work, try "FFT_noPlot".
 
 ## INSTRUCTIONS
 
-1. Unzip the file "FFT.rar"
+1. Download this directory and unzip it.
 2. Place your data file inside the same directory as the ".exe" file you want to use. 
 	DO NOT CHANGE THE LOCATION OF THE EXE FILE OR ANY OTHER FOLDER INSIDE THE SOFTWARE DIRECTORY!
 3. Run the ".exe" and follow the instructions.
