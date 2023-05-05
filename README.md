@@ -20,10 +20,19 @@
 
 ## INSTRUCTIONS
 
+FOR WINDOWS
 1. Download this directory and unzip it.
 2. Place your data file inside the same directory as the ".exe" file you want to use. 
 	DO NOT CHANGE THE LOCATION OF THE EXE FILE OR ANY OTHER FOLDER INSIDE THE SOFTWARE DIRECTORY!
+	DO NOT RUN THE EXE INSIDE A DIRECTORY WITH SPACES IN THE PATH
 3. Run the ".exe" and follow the instructions.
+4. Results are stored inside the "Output" folder.
+
+FOR MAC USERS:
+IMPORTANT: DO NOT RUN THE EXE INSIDE A WINDOWS VIRTUAL MACHINE. Do the following:
+1. Download "FFT_MAC" folder.
+2. Inside that folder, run the python code "FFT.py": use your prefered IDE (Visual Studio, CodeBlocks...) or in the terminal run "python FFT.py" or "python3 FFT.py"
+	DO NOT RUN THE FILE INSIDE A DIRECTORY WITH SPACES IN THE PATH
 4. Results are stored inside the "Output" folder.
 
 > NOTES:
@@ -60,7 +69,8 @@
 						
 ## UPDATES
 
-### v1.2:
+### v1.3:
+	-Added code for MAC users
 	-Input data can have empty rows at the end.
 	-Errors are now shown on terminal instead of directly closing the window when a problem occurs
 	
