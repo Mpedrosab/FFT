@@ -20,7 +20,7 @@
 
 ## INSTRUCTIONS
 
-FOR WINDOWS
+### FOR WINDOWS
 1. Download this directory and unzip it.
 2. Place your data file inside the same directory as the ".exe" file you want to use. 
 	DO NOT CHANGE THE LOCATION OF THE EXE FILE OR ANY OTHER FOLDER INSIDE THE SOFTWARE DIRECTORY!
@@ -28,15 +28,14 @@ FOR WINDOWS
 3. Run the ".exe" and follow the instructions.
 4. Results are stored inside the "Output" folder.
 
-FOR MAC USERS:
-
+### FOR MAC USERS:
 IMPORTANT: DO NOT RUN THE EXE INSIDE A WINDOWS VIRTUAL MACHINE. Do the following:
 1. Download "FFT_MAC" folder.
 2. Inside that folder, run the python code "FFT.py": use your prefered IDE (Visual Studio, CodeBlocks...) or in the terminal run "python FFT.py" or "python3 FFT.py"
 	DO NOT RUN THE FILE INSIDE A DIRECTORY WITH SPACES IN THE PATH
 4. Results are stored inside the "Output" folder.
 
-> NOTES:
+### NOTES:
 > - Zero point is removed to avoid singularities.
 > - Assumes that the time interval between samples is constant along the whole data.
 > - Input file must be a raw text file with two columns: time (s) and data. 
