@@ -29,6 +29,7 @@ FOR WINDOWS
 4. Results are stored inside the "Output" folder.
 
 FOR MAC USERS:
+
 IMPORTANT: DO NOT RUN THE EXE INSIDE A WINDOWS VIRTUAL MACHINE. Do the following:
 1. Download "FFT_MAC" folder.
 2. Inside that folder, run the python code "FFT.py": use your prefered IDE (Visual Studio, CodeBlocks...) or in the terminal run "python FFT.py" or "python3 FFT.py"
